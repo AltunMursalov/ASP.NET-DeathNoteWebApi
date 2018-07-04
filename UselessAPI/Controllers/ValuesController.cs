@@ -15,7 +15,7 @@ namespace UselessAPI.Controllers
 
         public ValuesController(DeathNoteContext context)
         {
-            this.context = context;
+            this.context = context; 
         }
 
 
